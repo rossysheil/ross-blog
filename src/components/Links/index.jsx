@@ -37,29 +37,31 @@ class Links extends React.Component {
           </li>
           <li className="links__list-item">
             <a
-              href={`https://www.vk.com/${links.vk}`}
+              href={`https://www.linkedin.com/in/ross-s-1508091a/${links.vk}`}
               target="_blank"
               rel="noopener noreferrer"
             >
-              <i className="icon-vkontakte" />
+              <i className="icon-linkedin" />
             </a>
           </li>
         </ul>
         <ul className="links__list">
           <li className="links__list-item">
-            <a href={`mailto:${links.email}`}>
+            <a href={`mailto:rossjsheil@gmail.com${links.email}`}>
               <i className="icon-mail" />
             </a>
           </li>
           <li className="links__list-item">
-            <a href={`telegram:${links.telegram}`}>
-              <i className="icon-paper-plane" />
+            <a href={`https://www.instagram.com/rossys_insta/${links.telegram}`}
+            target="_blank"
+              rel="noopener noreferrer">
+              <i className="icon-instagram" />
             </a>
           </li>
-        </ul>
-        <ul className="links__list">
           <li className="links__list-item">
-            <a href={links.rss}>
+            <a href={`https://www.scalingstartups.io`}
+            target="_blank"
+              rel="noopener noreferrer">
               <i className="icon-rss" />
             </a>
           </li>

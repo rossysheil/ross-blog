@@ -7,9 +7,9 @@ module.exports = {
   siteMetadata: {
     url,
     siteUrl: url,
-    title: 'Blog by John Doe',
+    title: 'Blog by Ross Sheil',
     subtitle:
-      'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+      'Business operator and builder. How you do anything is how you do everything.',
     copyright: '© All rights reserved.',
     disqusShortname: '',
     menu: [
@@ -27,7 +27,7 @@ module.exports = {
       },
     ],
     author: {
-      name: 'John Doe',
+      name: 'Ross Sheil',
       email: '#',
       telegram: '#',
       twitter: '#',
