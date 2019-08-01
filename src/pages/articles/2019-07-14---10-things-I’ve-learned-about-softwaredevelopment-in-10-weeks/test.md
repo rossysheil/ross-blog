@@ -1,10 +1,10 @@
 ---
-title: 10 things I’ve learned about software development in 10 weeks
+title: 100 things I’ve learned about software development in 10 weeks
 date: "2019-07-14T16:51:00.000Z"
 layout: post
 draft: false
 path: "/posts/10-things-Ive-learned-about-softwaredevelopment-in-10-weeks/" 
-category: "Coding" 
+category: "Web Development" 
 tags:
   - "Software"
   - "Web Development"
