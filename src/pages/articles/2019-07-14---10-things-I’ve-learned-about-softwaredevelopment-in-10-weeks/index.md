@@ -1,5 +1,5 @@
 ---
-title: 100 things I’ve learned about software development in 10 weeks
+title: 10 things I’ve learned about software development in 10 weeks
 date: "2019-07-14T16:51:00.000Z"
 layout: post
 draft: false
