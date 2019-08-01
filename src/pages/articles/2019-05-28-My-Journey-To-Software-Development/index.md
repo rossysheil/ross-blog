@@ -38,20 +38,20 @@ I purposefully selected a bootcamp with javascript as the core programming langu
 
 Whilst the learning curve with javascript is steeper than learning ruby or other programming languages; my expectation is that knowledge of javascript will compound over the medium to long term and you don’t have to learn multiple languages when starting out which require increased syntax and language capacity. In industry javascript is also viewed as best-in-class due to :
 
-*Speed. Javascript runs immediately within the client side browser saving bandwidth and making execution fast. It has no need to be compiled on client side and is not slowed down with network calls to a back-end server.
-*Ubiquity. Javascript has broad popularity amongst the developer community and has tonnes of cutting edge frameworks and libraries.
-*Rapid development. Being able to receive immediate feedback in the browser during the development process is a clear advantage in learning.
-*Mobile advantages. Javascript (React) is fast becoming the best-in-class for mobile app development
+* Speed. Javascript runs immediately within the client side browser saving bandwidth and making execution fast. It has no need to be compiled on client side and is not slowed down with network calls to a back-end server.
+* Ubiquity. Javascript has broad popularity amongst the developer community and has tonnes of cutting edge frameworks and libraries.
+* Rapid development. Being able to receive immediate feedback in the browser during the development process is a clear advantage in learning.
+* Mobile advantages. Javascript (React) is fast becoming the best-in-class for mobile app development
 
 Over the next number of months I’ll be tackling a bunch of new technologies, concepts and frameworks and thought it would be fun to document my key learnings throughout the process for two reasons; writing helps with rapid consolidation of learning and; being able to look back on my learning and how wrong I was in some of my assumptions should be an interesting thought experiment!
 I’ll be documenting my learnings from my syllabus below periodically when I’ve hit various milestones. I’m focused on front-end development now so my next post will be on front-end with back-end and more complex computing exercises towards the end of summer.
 
 Notwithstanding my main takeaways so far are:
 
-*Learning to code is a process and not an outcome. You must enjoy the process, you’ve got to learn to associate positive rewards and cues with learning to code.
-*Neat code creation. Viewing code creation as an aesthetic exercise breeds a more diligent and thoughtful programmer.
-*Developer gunslinger skills. These is a term from my instructor around utilising knowledge for optimising time and effectiveness via advanced keyboard shortcuts and developing subconscious muscle memory on to use these consistently.
-*Theory is no substitute for live coding. Theoretical understanding is driven mostly by doing not by reading. Theory is companion learning.
+* Learning to code is a process and not an outcome. You must enjoy the process, you’ve got to learn to associate positive rewards and cues with learning to code.
+* Neat code creation. Viewing code creation as an aesthetic exercise breeds a more diligent and thoughtful programmer.
+* Developer gunslinger skills. These is a term from my instructor around utilising knowledge for optimising time and effectiveness via advanced keyboard shortcuts and developing subconscious muscle memory on to use these consistently.
+* Theory is no substitute for live coding. Theoretical understanding is driven mostly by doing not by reading. Theory is companion learning.
 If you’d like to follow-on with my learning or are currently going through a similar journey I’d love to hear from you! You can get me on @RossySheil on Twitter.
 
 
