@@ -4,7 +4,7 @@ date: "2019-07-14T16:51:00.000Z"
 layout: post
 draft: false
 path: "/posts/10-things-Ive-learned-about-softwaredevelopment-in-10-weeks/" 
-category: "Coding"
+category: "Coding" 
 tags:
   - "Software"
   - "Web Development"
