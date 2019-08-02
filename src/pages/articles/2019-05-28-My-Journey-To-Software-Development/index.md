@@ -43,8 +43,12 @@ Whilst the learning curve with javascript is steeper than learning ruby or other
 * Rapid development. Being able to receive immediate feedback in the browser during the development process is a clear advantage in learning.
 * Mobile advantages. Javascript (React) is fast becoming the best-in-class for mobile app development
 
+![ios-popularity-image.jpg](./ios-popularity-image.jpg)
+
 Over the next number of months I’ll be tackling a bunch of new technologies, concepts and frameworks and thought it would be fun to document my key learnings throughout the process for two reasons; writing helps with rapid consolidation of learning and; being able to look back on my learning and how wrong I was in some of my assumptions should be an interesting thought experiment!
 I’ll be documenting my learnings from my syllabus below periodically when I’ve hit various milestones. I’m focused on front-end development now so my next post will be on front-end with back-end and more complex computing exercises towards the end of summer.
+
+![fullstack-framework.jpg](./fullstack-framework.jpg)
 
 Notwithstanding my main takeaways so far are:
 
@@ -54,29 +58,4 @@ Notwithstanding my main takeaways so far are:
 * Theory is no substitute for live coding. Theoretical understanding is driven mostly by doing not by reading. Theory is companion learning.
 If you’d like to follow-on with my learning or are currently going through a similar journey I’d love to hear from you! You can get me on @RossySheil on Twitter.
 
-
-
-
-
-
-
-This is a Gatsby v2 compatible version of the
-[lumen](https://github.com/alxshelepenok/gatsby-starter-lumen) starter, started
-by the folks at [Gatsby Central](https://www.gatsbycentral.com/).
-
-Here's a little recommended reading for Gatsby v2.
-
-* First, [what's new in v2](https://www.gatsbycentral.com/whats-new-in-gatsby-v2)
-* Next, [when should I upgrade?](https://www.gatsbycentral.com/when-should-i-upgrade-to-gatsby-v2)
-* [The Gatsby v2 announcement blog post](https://www.gatsbyjs.org/blog/2018-09-17-gatsby-v2/)
-
-If you **do decide to upgrade**, these articles will help you do that.
-
-* [Getting started with Gatsby v2](https://www.gatsbycentral.com/getting-started-with-gatsby-v2)
-* [Should I rebuild my site for Gatsby v2?](https://www.gatsbycentral.com/should-i-rebuild-my-site-for-gatsby-v2)
-* [How do layouts work in Gatsby v2](https://www.gatsbycentral.com/how-do-layouts-work-in-gatsby-v2)
-* [StaticQuery in Gatsby v2](https://www.gatsbycentral.com/staticquery-in-gatsby-v2)
-
-Finally, here's a cheat sheet we prepared to help during the upgrade:
-
-* [Gatsby v2 refactoring cheat sheet](https://www.gatsbycentral.com/gatsby-v2-refactoring-cheat-sheet)
+![brain-java-image.jpg](./brain-java-image.jpg)
