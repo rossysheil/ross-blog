@@ -106,44 +106,62 @@ For most games marketers striking that balance between developed app economies a
 
 Most important is the monetisation curve of emerging markets, you can see above the monetisation curve of developed app economies as form factor improved, downloads will lay the ground work for delayed monetisation in emerging app economies as form factor improves particularly in SEA & BRIC territories. The above of course has ramifications for how app marketers are approaching their growth strategies for 2017, below I have outlined some of the emerging trends from 2016 which are expected to be widely adopted in 2017.
 
-#Trend 1 — The Rise of Premium Programmatic
+##Trend 1 — The Rise of Premium Programmatic
 
 More and more app marketers are willing to pay out on a premium e.CPM where they see strong conversion rates due to first-look on inventory, of course app marketers need to be confident that the conversion rates will continue and are scalable.
 
-#Industry growth in video ad revenue & CPM’s 2016
+![premium-programmatic.jpg](./premium-programmatic.jpg)
 
 PMP’s will enable app marketers to diversify their channel dependency & compete against brand advertisers who traditionally buy on reach & frequency in a e.CPM range, app marketers have an opportunity to be more competitive in this space where they see good performance.
+
+![premium-programmatic.jpg](./premium-programmatic.jpg)
+
 Separate to PMP’s as a component of a wider app marketing strategy I believe we will see app marketers gravitate towards ‘audience trading’ & away from ‘inventory trading’ as these pools grow to be cost-prohibitive. Audience trading will become more efficient as first-party data and third-party data via marketplace and DMP syndication becomes more efficient with improved look-a-like modelling and algorithms.
 
-#Trend 2 — Mass Adoption of Creator Marketing
+##Trend 2 — Mass Adoption of Creator Marketing
 
 Creator Marketing is now used in some shape or form by the majority of top app marketers, there is a long way to go in moving towards a deterministic attribution model, current attribution models are probabilistic at best solely uplift based similar to models used for TV in app marketing.
+
+![creator-marketing.jpg](./creator-marketing.jpg)
 
 Many app marketers are shifting their entire brand budget to creator marketing like Seriously Games who was the poster child in gaming for effective creator marketing. The effectiveness of creator marketing lies in opening a new channel that is non-auction based which has very clear benefits in mid-long tail acquisition across social given the content lives on and is discoverable. Buying models in creator marketing are usually content or audience based meaning the fee is fixed so app marketers need to be comfortable in this. Given the gains made in automated sourcing, workflow approvals & talent management in 2016, 2017 should see the introduction of programmatic creator marketing complete with a dynamic buying model.
 
 ##Trend 3 — MarTech as Antidote to AdTech
 
 AdTech has served app marketers indispensably in user growth but in retention, engagement & monetisation beyond the install has been lacking.
-Intelligent automation SDK’s which enable bespoke on-boarding per acquisition source, A/B testing across UX, predictive analytics to enable automation of ‘mobile moments’, monetisation path maximisation will be the largest technology trend in 2017. To date most app marketers have viewed MarTech with CRM-only capabilities as complimentary to the app and not the app engine itself, this will change in 2017 looking at app marketing organisations maturing & market forces increasing.
+Intelligent automation SDK’s which enable bespoke on-boarding per acquisition source, A/B testing across UX, predictive analytics to enable automation of ‘mobile moments’, monetisation path maximisation will be the largest technology trend in 2017. 
+
+![martech-antidote.jpg](./martech-antidote.jpg)
+
+To date most app marketers have viewed MarTech with CRM-only capabilities as complimentary to the app and not the app engine itself, this will change in 2017 looking at app marketing organisations maturing & market forces increasing.
 
 ##Trend 4–100% User Monetisation
 
 As a range in IAP economies between 2% — 8% of users actually monetise via in-app-purchases, this leaves the majority of their audience completely un-monetised. At a time of premium CPM’s for publishers via mobile video & entertainment-driven video integrations for rewarded video this trend will quickly disappear in 2017 as 100% monetisation becomes a focus.
 
+![player-monetization.jpg](./player-monetization.jpg)
+
 IAP technology and SSP technology typically do not communicate well in an app, there is limited understanding of user propensity to purchase due to lack of predictive modelling in a married SDK. Platforms with both measurement and SSP SDK’s are in the best position to achieve dominance in the market or alternatively closer relationships with MMP’s and SSP’s. Generally this is only positive as it helps boost user LTV which in-turn enables app marketers to acquire more premium users at higher volume.
 
 ##Trend 5 — ROAS to inform Demand Strategy
 
-App marketers understanding of ROAS moved forward in leaps and bounds in 2016 with predicted retention, predicted monetisation and deep understanding of incrementally and frequency models, social contributors et al — however there are still gaps at user-level and ad-type level which create some inefficiencies in app marketing spend. New technology like Soomla is opening up further insights here which will close these gaps for marketers, 2017 will see a general movement away from standard display units as native, video & playable supply is opened up and forms the foundation of a ROAS marketing strategy.
+App marketers understanding of ROAS moved forward in leaps and bounds in 2016 with predicted retention, predicted monetisation and deep understanding of incrementally and frequency models, social contributors et al — however there are still gaps at user-level and ad-type level which create some inefficiencies in app marketing spend. 
+
+![premium-roas.jpg](./premium-roas.jpg)
+
+New technology like Soomla is opening up further insights here which will close these gaps for marketers, 2017 will see a general movement away from standard display units as native, video & playable supply is opened up and forms the foundation of a ROAS marketing strategy.
 
 ##Trend 6 — AI to Power Creativity
 In AdTech the single biggest use-case for AI is in assets & creative. Computing power & prediction models are at optimal level in ad-tech but a hugely neglected area is in creative optimisation.
+
+![ai-creativity.jpg](./premium-programmatic.jpg)
 
 Facebook has opened up an ecosystem to aid in creative innovation and combat ad fatigue and creative exhaustion which has the effect of limiting platform revenue and advertiser success. Similarly platforms like URU are using advance machine learning capabilities to disrupt the entire OLV industry with programmatic native placement in-video — this has very significant ramifications in mitigating against the limited supply environment in a non-intrusive & efficient way.
 
 ###Key Takeaways
 
 In summary app marketing is in a state of flux — as smartphone adoption begins to mature in developed app economies and ad dollars continue to flow into the medium app marketers need to invest in creative approaches to user growth & monetisation, below are the key takeaways from my keynote.
+
 * Marketplace, app store & user behaviour are converging to limit supply and create excessive demand.
 * The rise of premium programmatic will aid in diversification with greater predictability of ROAS.
 * Age of the mature app marketing organisation — unit economics mean tight LTV forecasting and buyers applying pressure to commodity costs.
