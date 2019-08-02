@@ -20,7 +20,7 @@ I’m starting my 2017 resolution to read more and write more with an exploratio
 
 It is rare that the CEO of a company instills such a strong & pervasive management philosophy that cascades throughout an organisation — typically at most corporate companies there are various flavours of what good management looks like & nurturing of different philosophies is encouraged which has it’s advantages but can sometimes create a lack of consistency in execution of the vision — Intel however is not one of those companies with Grove being widely credited for operationalising much of the management philosophy we see in Silicon Valley and in it’s global imprint today. ‘High Output Management’ is a business leadership book for any leader old or new in business, whether you are founder of a small start-up or a Fortune 100 CEO Grove’s work has received cult-status amongst leadership circles. Ben Horowitz is the much publicised sponsor of it’s management principles and many dynamic leaders from Mark Zuckerberg to Marc Andressen credit Grove with heavily influencing their personal leadership and management style.
 
-<figure class="float-right" style="width: 240px">
+<figure class="float-left" style="width: 240px">
     <img src="./high-output.jpg" alt="High Output Management book">
     <figcaption>High Output Management</figcaption>
 </figure> 
