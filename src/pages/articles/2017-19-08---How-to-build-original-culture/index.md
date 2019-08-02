@@ -15,6 +15,12 @@ description: "What are the secret ingredients in top-performing cultures and org
 #Originality and Company Culture
 
 How does the Fortune 100 continue to be innovative ? How do the most innovative contributors in tech companies always develop unique ideas ? the answer lies in ‘originality’ & the degree to which this can be taught or nurtured in individuals and companies.
+
+<figure class="float-right" style="width: 400px">
+    <img src="./grant-book.jpg" alt="Adam Grant book">
+    <figcaption>Originals</figcaption>
+</figure> 
+
 For Adam Grant in his book ‘Originals — How Non-Conformists Move the World’ the thesis of organisational originality is founded on strong company culture and the behaviours that culture encourages & celebrates amongst its wider population. Original and creative thinkers in technology companies flourish in places where diversity and divergent methods of thinking are valued in a non-hierarchical environment with forums and escalation paths in place to ensure creative ideas receive discourse and are pressure-tested.
 
 However at many start-ups and tech companies intrapreneurship is not guaranteed and is sometimes an elusive practice amongst it’s wider populous for numerous reasons; culture, organisational structures or there can be a lack of know-how in individuals around how to create space in an organisation to lead or contribute to the innovation agenda and even when there is an idea in place how to navigate organisational complexity in bringing new ideas to the fore.
@@ -41,6 +47,11 @@ Grant does an exceptional job of bringing this to life looking at the stories of
 
 In the tech economy it is now not uncommon to see major tech companies incubate employees and now founding teams of new companies in internal innovation labs. With rapid convergence of technology the worlds of software & hardware across b2c & b2b are colliding more than ever before and it’s a forcing function to ensure companies place intrapreneurship on top of the corporate agenda. Fostering a culture of originality then is top of mind for many companies across the globe as an un-desirable consequence of achieving a market-leading position is protection of that position and lack of creativity elsewhere.
 
+<figure class="float-right" style="width: 400px">
+    <img src="./culture-iceberg.jpg" alt="Culture framework">
+    <figcaption>Organisational culture</figcaption>
+</figure> 
+
 Grant advocates that in certain respects management are inherently limited when it comes to innovation as management by its nature encourages achievement-motivation in teams which means teams focus on guaranteed success and stay away from big bets. Management can also draw on historical evaluative experience for what innovation looks like where false negatives can be easily created — it is here where experience can begin to limit creativity & where moderate expertise is most valuable looking at creative output in an organisation.
 
 This has consequences for how management should engage and prioritise idea meritocracy across those individuals with lesser ‘power’, ‘status’ or ‘believability’ — which can be most seen in new hires or those individuals with lesser tenure or progression on the corporate ladder. As an unintended consequence of scaling this can unfortunately happen in large tech companies where some originals will need help & management sponsorship in progressing an idea — the onus is on the leadership team to ensure they create a culture where these ideas are valued and prioritised at all levels.
@@ -61,12 +72,22 @@ Key takeaways for any hiring manager here is to understand the type of hire you 
 
 In some environments culture can be so cohesive & strong that groupthink can occur where management or staff teams are committed to a singular vision that crowds out any view on a more viable future alternative — organisations that have a very strong product identity & value prop are more susceptible to this than others. Grant tells the story of market leader Polaroid CEO Edwin Land who could not conceive of a world where film would not be used in digital cameras despite him championing the movement towards digital with Land & his management team being too focused on managing the profit margins from film instead of future-proofing the business & preventing disruption.
 
+<figure class="float-right" style="width: 400px">
+    <img src="./group-think.jpg" alt="Group think culture">
+    <figcaption>Consensus is the enemy of innovation</figcaption>
+</figure> 
+
 This strong singular focus creates an environment where dissent, originality & divergent thinking is not valued and conformity is — in these scenarios management do not contribute to innovation through fear of losing reputation — of note are these comments from a former VP at Polaroid “I could never conquer the culture paradigms prevalent in Polaroid, the closed-minded thinking, many of us certainly drank the ‘Kool-Aid’.
 Notwithstanding, cohesion absent singularity is generally positive in management & staff teams where each member should be confident in their position to disagree and provide dissent.
 
 ##Is Dissent an Effective Barometer of Culture ?
 
 Grant pays special attention to Bridgewater Associates and their CEO Ray Dalio whose returns regularly exceed the profits of Google, Amazon, Yahoo, eBay. Bridgewater is known for its unique and exceptionally strong culture where it practices radical transparency, independent thinking, non-hierarchy environments, dissent & idea meritocracy. At Bridgewater feedback is delivered in public transparently, lay-employees regularly call out senior leadership on decisions, employees are openly ranked on 77 different attributes across determination, values, principles, confidence and many more available to the entire company.
+
+<figure class="float-right" style="width: 400px">
+    <img src="./always-done-it.jpg" alt="Organisational stuck in the mud">
+    <figcaption>A dangerous phrase at tech companies</figcaption>
+</figure> 
 
 For Bridgewater CEO dissent & independent thinking was the litmus test for keeping his organisation & culture at peak health, he believed in the importance of dissent as being crucial to Bridgewater’ modus operandi and regularly employed tactics to surface dissent, on one occasion he sent the following email to the entire company :
 
@@ -85,11 +106,23 @@ Throughout the book Grant highlights a long laundry list of companies & industri
 
 The values of a commitment based blueprint is clear but it also decreases in weighted value as the organisation matures & grows in hyper-competitive industries.Adam explores a study where post growth stage of start-ups commitment-based blueprints caused slower growth rates in market value, growing 140% slower than star blueprints and 25% slower than professional blueprints. This is further compounded in dynamic & unpredictable markets like technology where commitment-based blueprints become less diverse over time through recruitment of similar individuals in the team. This homogeneity makes it more difficult for these teams to recognise symptoms of disruption and the need to focus on diversity to survive.
 
-Similarly a failure to question viability of business model as industries mature was evident across all organisations who failed to evolve, a failed dissenter at Polaroid recalls ‘we constantly challenged the notion of the current business model, the core business, as being old, antiquated and unable to go forward’ — in companies where achievement-motivation receives pride of place the voice of dissent is only valuable where idea meritocracy is also evident in the organisational DNA. This means the question of cultural-fit becomes redundant over time and successful hiring Managers focus on whether an individual is additive to the established company culture and what their unique contribution could be.
+Similarly a failure to question viability of business model as industries mature was evident across all organisations who failed to evolve, a failed dissenter at Polaroid recalls ‘we constantly challenged the notion of the current business model, the core business, as being old, antiquated and unable to go forward’ — in companies where achievement-motivation receives pride of place the voice of dissent is only valuable where idea meritocracy is also evident in the organisational DNA. 
+
+<figure class="float-right" style="width: 400px">
+    <img src="./cultural-fit.jpg" alt="Cultural fit">
+    <figcaption>Additive to culture or fit?</figcaption>
+</figure> 
+
+This means the question of cultural-fit becomes redundant over time and successful hiring Managers focus on whether an individual is additive to the established company culture and what their unique contribution could be.
 
 ##How to Coach & Motivate ‘Originals’ ?
 
 Something that jumps out of Grant’s discourse is the lack of coaching, nurturing & motivation which ‘originals’ can sometimes experience in an organisation. Grant tells the story of Carmen Medina who lacked the power, status or believability to herald in the introduction of a wiki-service for intelligence sharing at the CIA in the 1990’s — whilst Medina was truly ‘original’ she was perceived as too radical and absent in organisational skill or stamina which heavily impacted her ability to be a constructive dissenter.
+
+<figure class="float-right" style="width: 400px">
+    <img src="./motivate-inspire.jpg" alt="Tipping point">
+    <figcaption>Motivate and inspire</figcaption>
+</figure> 
 
 Adam delivers a war chest of best practices for how ‘originals’ can tactically bring their ideas to the fore in an organisation which are great coaching patterns to engage in :
 
@@ -130,3 +163,5 @@ Check out Adam’s Ted Talk below if you don’t have time to read the entire bo
 Top Tip 1 — at the end of this book there is an ‘Action for Impact’ section which focuses on all of the practical steps you can take to unleash creativity in your business unit or team.
 
 Top Tip 2 — there are countless anecdotes of various companies and . individual success’ & failures at originality which can only be digested in reading the full book, would advise a full read.
+
+*Originally published by [Ross Sheil](http://rossysheil.com/) on [Medium](https://medium.com/rossysheil/.*

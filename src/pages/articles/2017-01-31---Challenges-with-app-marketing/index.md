@@ -31,7 +31,7 @@ Distilling my thoughts together for the conference I reflected on the state of m
 
 A trend driven by consumers in recent years is cannibalisation of total time spent at the benefit of mobile but at the cost of other mediums. Mobile media time experienced almost triple digit growth in the last 3 years cannibalizing other media categories. 
 
-<figure class="float-left" style="width: 200px">
+<figure class="float-left" style="width: 250px">
     <img src="./mobile-time.jpg" alt="High Growth Hanbook">
     <figcaption>Art of War</figcaption>
 </figure> 
@@ -45,14 +45,14 @@ Mobile’s cannibalization of other mediums has begun to look inwards at the med
 ##Is growth in app usage slowing down ?
 User consumption trends inform product development and it’s undeniable that product stickiness is now seen amongst apps that ship product with a video-first mindset — mobile gaming apps are beginning to exhibit this trend more and more with Playrix, Plarium, King et al incorporating rich video assets into their games to satisfy consumer need for video consumption.
 
-<figure class="float-left" style="width: 200px">
+<figure class="float-left" style="width: 250px">
     <img src="./user-behavior.jpg" alt="User Behavior">
     <figcaption>User behavior is evolving</figcaption>
 </figure> 
 
 In a recent analysis from Flurry with a total sample size of 1 Billion apps across 2 billion devices exploring session & time spent data there was one clear category winner fully built on video communication and consumption ; messaging & social. Most significantly messaging & social were eating other app categories to the point where there was a strong case for cannibalization particularly in personalisation apps & gaming apps where the biggest deficit appeared, gaming was -15% for its consecutive year on user sessions and -4% on total time spent in the category.
 
-<figure class="float-left" style="width: 200px">
+<figure class="float-left" style="width: 250px">
     <img src="./time-spent.jpg" alt="Time spent on apps">
     <figcaption>Time spent on apps</figcaption>
 </figure> 
@@ -65,7 +65,7 @@ It is never helpful to look at media as purely a commodity, commodity-based medi
 ##When demand meets supply ?
 We have reached a tipping point in ad-tech where in the absence of a full-funnel marketing strategy buyers create churn & haemorrhage users rapidly. This is endemic in a landscape where there is limited focus on automation SDK’s to engage users post-install, the data below sets the scene for the macro & unit-economics of app marketing through to 2018.
 
-<figure class="float-left" style="width: 200px">
+<figure class="float-left" style="width: 250px">
     <img src="./tipping-point.jpg" alt="Tipping point">
     <figcaption>The mobile tipping point</figcaption>
 </figure> 
