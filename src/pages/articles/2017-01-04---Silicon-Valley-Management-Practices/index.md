@@ -6,10 +6,8 @@ draft: false
 path: "/posts/god-father-silicon-valley-management-leadership/"
 category: "Leadership"
 tags:
-  - "Linotype"
-  - "Monotype"
-  - "History of typography"
-  - "Helvetica"
+  - "Management"
+  - "Scaling"
 description: "A founder and operator guide to scaling tech companies courtey of Andy Grove. Andy Grove's management philosophy is a long-time favorite of Silicon Valley founders. During my time managing teams at Twitter this management framework was launched in the company by Dick Costolo as part of Twitter's people management and operations philosophy."
 ---
 
