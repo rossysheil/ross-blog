@@ -77,6 +77,11 @@ Key Takeaways for Grove here also touch on :
 ##Navigating Organisational Complexity
 I’m a strong proponent of creating mission driven team’s that work towards a common goal and objective and reflecting this in the org structure, there should be no ambiguity around the vision or goal, the leader should clearly map out how to get there so there is accountability to the team which will create buy-in. Once this is established managing team expectations around cultural norms informed by the agreed vision becomes manageable. Grove touches on this in what he calls the CUA model — Complexity, Uncertainty and Ambiguity. According to Grove whether CUA is low or high in an organisation it is the Manager’s responsibility to align towards the vision and group interests. Your team in low CUA will become motivated extrinsically through rewards, bonus’s or their IDP versus high CUA (tough market forces) where they will become self-interested and potentially destructive towards the vision & team, being able to articulate the team vision is the antidote to high CUA, make sure there is one. In practice for high CUA environments the Manager must over-communicate and commit to doing this, where there is less to say to the team there is typically more to say and ownership of this falls to the Manager.
 
+<figure class="float-left" style="width: 240px">
+    <img src="./boss-boss.jpg" alt="Org structure">
+    <figcaption>Leadership is not defined by org structure</figcaption>
+</figure> 
+
 As any company grows and matures from embryonic to high growth to IPO so to will it’s org model — looking at some of the largest companies in the world there are many different types of org models which influence org & team structure this means organisational change will occur and being a champion of change management is the Manager’s role here.
 
 Key Takeaways for Grove sit around timing and careful consideration of the org structure, good questions for every Manager to consider are around does it make the organisation move faster :

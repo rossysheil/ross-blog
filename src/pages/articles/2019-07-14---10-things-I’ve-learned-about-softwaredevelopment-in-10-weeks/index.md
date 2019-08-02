@@ -23,7 +23,17 @@ I jest and digress but seriously it’s pretty challenging! I’ve logged about 
 
 To date I’ve spent the majority of my time on the fundamentals of front-end development outlined below so I wanted to recap on how I’ve put this into practice and how I’m measuring progress in terms of my approach to learning and development.
 
+<figure class="float-left" style="width: 400px">
+    <img src="./timetable-1.jpg" alt="Timetable requirements">
+    <figcaption>Front-end timetable</figcaption>
+</figure> 
+
 The intensity and time investment requirements will ramp up as I hit week 13 so my priorities over the next two weeks are focused on drilling and digesting all of the key components of basic front end development along with CLI + GIT which serve as a required knowledge base to function as I move into more advanced programming, new languages and various computer science frameworks.
+
+<figure class="float-left" style="width: 400px">
+    <img src="./timetable-2.jpg" alt="Timetable requirements">
+    <figcaption>Timetable for remainder of year</figcaption>
+</figure> 
 
 So on reflection what are the top 10 things I’ve learned about web development which beginners should grasp early in order to accelerate their own learning and development with software engineering?
 
@@ -47,7 +57,14 @@ As I’ve developed more mock-ups it’s easy to start developing pattern recogn
 
 **5. Mastering the box model is key to learning CSS**
 
-Firstly, CSS is a language that controls page presentation from a user point of view. As a component of CSS the box model is the most common web layout on the internet. It impacts the display of an element presented as a rectangular box (everything is a box on the internet), with the box’s content, padding, border and margin layered on top of each other as properties to be controlled by the developer. The most common properties I find myself using on the box-model are min-width, max-width, min-height and max-height to set size constraints on an element. The default width and height is set by the size of the contained elements and other boxes which may represent nested child elements in your code such as a UI component like a button or a logo with layering. For example if I briefly pull up chrome developer tools to assess the properties of an avatar or button I like on another website such as Medium you can see assess the dimensions and visually investigate the layering on the property directly in the computed tab. This is also useful for inspecting block vs inline elements and understanding their behaviour.
+Firstly, CSS is a language that controls page presentation from a user point of view. As a component of CSS the box model is the most common web layout on the internet. It impacts the display of an element presented as a rectangular box (everything is a box on the internet), with the box’s content, padding, border and margin layered on top of each other as properties to be controlled by the developer. The most common properties I find myself using on the box-model are min-width, max-width, min-height and max-height to set size constraints on an element. 
+
+<figure class="float-left" style="width: 400px">
+    <img src="./dev-ools.jpg" alt="Dev tools">
+    <figcaption>Dev tools for box model</figcaption>
+</figure> 
+
+The default width and height is set by the size of the contained elements and other boxes which may represent nested child elements in your code such as a UI component like a button or a logo with layering. For example if I briefly pull up chrome developer tools to assess the properties of an avatar or button I like on another website such as Medium you can see assess the dimensions and visually investigate the layering on the property directly in the computed tab. This is also useful for inspecting block vs inline elements and understanding their behaviour.
 
 **6. Use first principles thinking with class selectors**
 
@@ -62,6 +79,11 @@ CSS inheritance and the selector specificity you use are explicitly linked so it
 **8. Build for responsiveness from day zero**
 
 It’s a misnomer that we live in a multi-channel world. It is a given that a consumer will experience your product across multiple device types so building for this behaviour immediately is key to successful product experiences. Some of the more advanced layouts like CSS flexbox and CSS grid have responsive properties built into their makeup like the fractional unit and flex grow, shrink and basis but it is best practice to ensure your product is optimised for mobile consumption with designated breakpoints optimised for your users device viewport. This is best achieved through the use of media queries and the srcset property.
+
+<figure class="float-left" style="width: 400px">
+    <img src="./break-points.jpg" alt="Breakpoints for optimisation">
+    <figcaption>Breakpoints to optimize for</figcaption>
+</figure> 
 
 Media queries are a form of conditional CSS where a device viewport equates to true I can control the presentation of rows and columns on a mobile app or tablet to be stacked as is typical with mobile presentation. As an example in the CSS of this layout I built I can specify a UI menu component built for mobile to become invisible and change to a standard navigation bar with the below media query and render in the browser with a layout of 2 columns and 7 rows built for responsiveness leveraging the auto property.
 
