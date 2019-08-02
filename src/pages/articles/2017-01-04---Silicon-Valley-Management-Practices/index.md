@@ -97,3 +97,5 @@ Key Takeaways for Grove sit around timing and careful consideration of the org s
 ##What does this mean for Managers ?
 
 In practice Grove offers a tangible perspective on business leadership devoid of softness that a lot of modern management philosophies now offer, it is valuable, relevant but only one story of management philosophy that Manager’s new and old can bring into their manifesto. If there is one thing I’d urge every Manager to take from Grove’s philosophy it is around owning your skill-set and providing meaningful additive direction to your business unit where you can empower & coach your business unit towards success, it was not in Grove’s modus operandi to manage for the sake of managing and in today’s fast moving knowledge economy doing so will put you and your organisation at a deficit.
+
+*Originally published by [Ross Sheil](http://rossysheil.com/) on [Medium](https://medium.com/rossysheil/.*

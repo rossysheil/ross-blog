@@ -13,7 +13,7 @@ description: "App marketing has distribution and scaling challenges as a system"
 
 On January 15th I delivered a keynote at #PGCLondon - Europe’s largest mobile gaming conference, you can find the slides from that presentation and my view below. 
 
-<figure class="float-left" style="width: 200px">
+<figure class="float-left" style="width: 400px">
     <img src="./title-slide.jpg" alt="My talk at PG Connects">
     <figcaption>My Talk at PG Connects</figcaption>
 </figure> 
@@ -31,9 +31,9 @@ Distilling my thoughts together for the conference I reflected on the state of m
 
 A trend driven by consumers in recent years is cannibalisation of total time spent at the benefit of mobile but at the cost of other mediums. Mobile media time experienced almost triple digit growth in the last 3 years cannibalizing other media categories. 
 
-<figure class="float-left" style="width: 250px">
+<figure class="float-right" style="width: 400px">
     <img src="./mobile-time.jpg" alt="High Growth Hanbook">
-    <figcaption>Art of War</figcaption>
+    <figcaption>Mobile consumption time</figcaption>
 </figure> 
 
 Time spent with digital now represents 2/3 media minutes and in 2016 digital spend for the first time exceeded TV ad spend driven by the influx of ad dollars to mobile as other mediums were squeezed out by advertisers. As consumer’s shift their time to a multi-screen mobile environment their attention span has also changed, opening their smartphone 85 times a day and with an attention span lesser than that of a gold-fish! The consumption vessel is meeting the same pace of change and in the next 3 years alone 75% of mobile data traffic will be video-first.
@@ -45,14 +45,14 @@ Mobile’s cannibalization of other mediums has begun to look inwards at the med
 ##Is growth in app usage slowing down ?
 User consumption trends inform product development and it’s undeniable that product stickiness is now seen amongst apps that ship product with a video-first mindset — mobile gaming apps are beginning to exhibit this trend more and more with Playrix, Plarium, King et al incorporating rich video assets into their games to satisfy consumer need for video consumption.
 
-<figure class="float-left" style="width: 250px">
+<figure class="float-left" style="width: 400px">
     <img src="./user-behavior.jpg" alt="User Behavior">
     <figcaption>User behavior is evolving</figcaption>
 </figure> 
 
 In a recent analysis from Flurry with a total sample size of 1 Billion apps across 2 billion devices exploring session & time spent data there was one clear category winner fully built on video communication and consumption ; messaging & social. Most significantly messaging & social were eating other app categories to the point where there was a strong case for cannibalization particularly in personalisation apps & gaming apps where the biggest deficit appeared, gaming was -15% for its consecutive year on user sessions and -4% on total time spent in the category.
 
-<figure class="float-left" style="width: 250px">
+<figure class="float-right" style="width: 400px">
     <img src="./time-spent.jpg" alt="Time spent on apps">
     <figcaption>Time spent on apps</figcaption>
 </figure> 
@@ -65,7 +65,7 @@ It is never helpful to look at media as purely a commodity, commodity-based medi
 ##When demand meets supply ?
 We have reached a tipping point in ad-tech where in the absence of a full-funnel marketing strategy buyers create churn & haemorrhage users rapidly. This is endemic in a landscape where there is limited focus on automation SDK’s to engage users post-install, the data below sets the scene for the macro & unit-economics of app marketing through to 2018.
 
-<figure class="float-left" style="width: 250px">
+<figure class="float-right" style="width: 400px">
     <img src="./tipping-point.jpg" alt="Tipping point">
     <figcaption>The mobile tipping point</figcaption>
 </figure> 
@@ -166,3 +166,6 @@ In summary app marketing is in a state of flux — as smartphone adoption begins
 * The rise of premium programmatic will aid in diversification with greater predictability of ROAS.
 * Age of the mature app marketing organisation — unit economics mean tight LTV forecasting and buyers applying pressure to commodity costs.
 * AI will open-up innovation in creative assets & programmatic video across a fragmented marketplace.
+
+
+*Originally published by [Ross Sheil](http://rossysheil.com/) on [Medium](https://medium.com/rossysheil/.*

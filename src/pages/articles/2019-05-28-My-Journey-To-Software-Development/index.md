@@ -59,3 +59,5 @@ Notwithstanding my main takeaways so far are:
 If you’d like to follow-on with my learning or are currently going through a similar journey I’d love to hear from you! You can get me on @RossySheil on Twitter.
 
 ![brain-java-image.jpg](./brain-java-image.jpg)
+
+*Originally published by [Ross Sheil](http://rossysheil.com/) on [Medium](https://medium.com/rossysheil/.*

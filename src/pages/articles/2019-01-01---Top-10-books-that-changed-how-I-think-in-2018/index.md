@@ -151,3 +151,5 @@ Given Peterson’s rise in the media throughout 2018 I curiously caught his show
 The book is brilliantly written clearly displaying Peterson’s dexterity of thought grounded in ethical principles, history & psychology. As with any book it is designed to offer perspective and not serve as an operating manual for how you should lead your life but it is undeniably additive to the rich body of work in creating a more responsible and self-aware society.
 
 Read if you’re seeking to broaden your perspective on what it means to lead a purposeful life.
+
+*Originally published by [Ross Sheil](http://rossysheil.com/) on [Medium](https://medium.com/rossysheil/.*

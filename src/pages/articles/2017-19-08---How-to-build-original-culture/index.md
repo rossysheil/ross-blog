@@ -164,4 +164,4 @@ Top Tip 1 — at the end of this book there is an ‘Action for Impact’ sectio
 
 Top Tip 2 — there are countless anecdotes of various companies and . individual success’ & failures at originality which can only be digested in reading the full book, would advise a full read.
 
-*Originally published by [Ross Sheil](http://rossysheil.com/) on [Medium](https://medium.com/rossysheil/.*
+*Originally published by [Ross Sheil](http://rossysheil.com/) on [Medium](https://medium.com/rossysheil/.)*
