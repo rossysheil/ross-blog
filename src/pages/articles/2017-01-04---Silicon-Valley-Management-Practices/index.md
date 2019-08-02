@@ -40,6 +40,11 @@ In my view processes and outcomes are as effective as the leader’s direction, 
 
 The Functional Triangle of Management — Train, motivate & influence your organisation, team, business unit through information gathering, decision-making, ‘nudging’ (escalating) and avoid abdication, delays in decisions, these are the highest leverage tasks of a Manager.
 
+<figure class="float-left" style="width: 240px">
+    <img src="./good-leader.jpg" alt="Good leader">
+    <figcaption>Lead through motivation and influence</figcaption>
+</figure> 
+
 Meetings — what is efficient may not be effective for your organisation, your team, or you — optimise your meetings broadly across 4 types and ensure you do not duplicate purpose or cadence; process-oriented, mission-oriented, 1:1’s and staff meetings
 Decision-making — implement the correct decision-making forum and involve the correct individuals inclusive of knowledge workers, decision workers and opposing thoughts — this is an area Managers can make mistakes, knowledge workers are on the front-line and closest to market & product inclusion of knowledge workers is often ignored and taken for granted to master this the RACI matrix is particularly effective at resolving decision making
 Team Output — agree with your team on what the key indicators of successful output are and how these will be measured, communicated and built upon over a QTR — what are the ‘vital few’ to be measured ?
@@ -50,6 +55,11 @@ Your Production Line — theme your week, people days, team days, product days, 
 
 Grove’s view on leading teams focuses less on vision-building, communication, team-norms, expectations and more towards a simplified but effective view that sits on training & motivation. Grove maintains that when a team breaks down it is usually because of individuals in the team where they can’t or won’t do something meaning they do not have the knowledge or lack the motivation — this can be solved by the Manager.
 As a side note Managers can sometimes fail at understanding what individuals on their team are motivated by — are they motivated extrinsically ? (money, rewards) or are they motivated intrinsically ? (achievement growth). Grove naturally pushes for a clear understanding of this at Manager-level as once you understand this you can meet each individually around their immediate motivations and begin to broaden and influence motivations in their career towards a more holistic growth and development plan.
+
+<figure class="float-left" style="width: 240px">
+    <img src="./leader-boss.jpg" alt="Team development">
+    <figcaption>Lead the developmental philosophy for your team</figcaption>
+</figure> 
 
 Grove firmly believes training & development to build excellence in your business unit is the job of the Manager & not a specialist or support team. In my view functional learning & development teams have key responsibilities in building transferable skills and developing the wider population but Grove’s perspective resonates as every Manager should own their direct skill-set and have accountability to the customer.
 It is widely proven in organisations that attrition is lowest where the Manager has technical competence and knowledge economy in their reports day to day, in this vein Grove implies organisational risk in position power without knowledge power at Manager level and to mitigate against this.
