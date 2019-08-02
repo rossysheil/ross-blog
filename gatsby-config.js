@@ -9,7 +9,7 @@ module.exports = {
     siteUrl: url,
     title: 'Blog by Ross Sheil',
     subtitle:
-      'Business operator and builder. How you do anything is how you do everything.',
+      'Startup operator and builder. Previously Head of Mobile at Twitter, now Head of Startup Growth at Stripe. How you do anything is how you do everything.',
     copyright: '© All rights reserved.',
     disqusShortname: '',
     menu: [

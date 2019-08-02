@@ -4,7 +4,7 @@ date: "2017-01-31T16:51:00.000Z"
 layout: post
 draft: false
 path: "/posts/challenges-with-app-marketing/"
-category: "Mobile Apps"
+category: "Mobile"
 tags:
   - "Marketing"
 description: "App marketing has distribution and scaling challenges as a system. There are a tonne of supply constraints and demand scarcity economics which will impact the ability for newcomers to launch and distribute mobile applications. This is an except from a talk I gave at PGC Connects analysing the forces at play and potential routes to circumvent these."

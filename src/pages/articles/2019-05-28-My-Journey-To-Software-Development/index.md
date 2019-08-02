@@ -7,7 +7,7 @@ path: "/posts/my-journey-to-software-development/"
 category: "Web Development"
 tags:
   - "Coding"
-  - "Web Development"
+  - "Software"
 description: "I’m now knee-deep in my journey to full stack software development. Earlier this May I jumped into a full stack software engineering program in London which I study for in evenings and weekends and will graduate from in November. I’m a novice coder but not new to the world of technology and engineering. Having worked in global internet companies like Twitter and Stripe for almost a decade on partnerships, business development and people management you engage with engineers on a daily basis around many different initiatives from customer product development, product feedback, GTM strategy and roadmaps, internal tools, internal infrastructure and more."
 ---
 

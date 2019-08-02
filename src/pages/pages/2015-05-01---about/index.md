@@ -3,9 +3,11 @@ title: "My journey"
 layout: page
 path: "/about"
 ---
-Hi there!
+Hi there,
 
-I'm currently Head of Startup Growth and Partnerships at Stripe UK & Ireland. I lead startup partnerships and go-to-market strategy for the startups in Europe as the first global hire for this function at the company. I'm deeply entrenched within Europe's startup ecosystem serving as a venture scout and advisor with several London based vc funds. I also mentor founders on commercial strategy and go-to-market at funds like Seedcamp and Startupbootcamp.
+This is my blog! You can expect to write about being an operator, management, leadership, biohacking, reading and software engineering.
+
+I'm currently Head of Startup Growth and Partnerships at Stripe UK & Ireland leading startup partnerships and go-to-market strategy for startups in Europe as the first global hire for this function at the company. I'm deeply entrenched within Europe's startup ecosystem serving as a venture scout and advisor with several London based vc funds. I also mentor founders on commercial strategy and go-to-market at funds like Seedcamp and Startupbootcamp.
 
 ![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](1.jpg)
 
