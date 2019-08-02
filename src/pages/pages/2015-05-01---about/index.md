@@ -13,7 +13,7 @@ I'm currently Head of Startup Growth and Partnerships at Stripe UK & Ireland lea
 
 *A keynote on mobile technology trends I gave at Viva Tech one of Europes largest tech conferences.*
 
-From 2012 - 2017 I was hired as one of Twitters first international hires holding a wide variety of roles across product, sales and people management leading Twitter's expansion into the UK and across EMEA as Head of Mobile and senior management. Before I left Twitter I led Twitter's mobile strategy and product across Europe directly responsible for 40% of European revenues at peak. Prior to Twitter I ran business development and partnerships at a vc-backed startup in consumer technology where I successfully led European expansion into new markets like DACH and NORDICS.
+From 2012 - 2017 I was hired as one of Twitters first international hires holding a wide variety of roles across product, sales and people management leading Twitter's expansion into the UK and across EMEA as Head of Mobile and senior management. Before I left Twitter I led Twitter's mobile strategy and product across Europe directly responsible for 40% of European revenues at peak growing from 0 as an early employee. Prior to Twitter I ran business development and partnerships at a vc-backed startup in consumer technology where I successfully led European expansion into new markets like DACH and NORDICS.
 
 ![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](ross_h.jpg)
 
