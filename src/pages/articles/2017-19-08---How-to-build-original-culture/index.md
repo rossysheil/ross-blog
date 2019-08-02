@@ -8,7 +8,7 @@ category: "Leadership"
 tags:
   - "Management"
   - "Leadership"
-description: "What are the secret ingredients in top-performing cultures and organisations"
+description: "In any organisation you will encounter many different types of performers. There will always be a mix of A+, B and C type people. Something I've been preoccupied by is how to maintain originality in organisations. I believe this is made possible through malleable top-performers and organisational planning and foresight on how to nurture 'Originals' in cutlures should be a focus for every leader."
 ---
 *The following is an exploration of Adam Grant’s ‘Originals’ and the key takeaways for building organisational creativity as a business leader.*
 
@@ -164,4 +164,5 @@ Top Tip 1 — at the end of this book there is an ‘Action for Impact’ sectio
 
 Top Tip 2 — there are countless anecdotes of various companies and . individual success’ & failures at originality which can only be digested in reading the full book, would advise a full read.
 
-*Originally published by [Ross Sheil](http://rossysheil.com/) on [Medium](https://medium.com/rossysheil/.)*
+*Originally published by [Ross Sheil](http://rossysheil.com/) on [Medium](https://medium.com/rossysheil/).*
+

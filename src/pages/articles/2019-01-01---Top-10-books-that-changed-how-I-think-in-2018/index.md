@@ -8,7 +8,7 @@ category: "Reading"
 tags:
   - "Management"
   - "Leadership"
-description: "Top 10 books that changed how I think in 2018"
+description: "I read a lot of books in 2018. The majority on management and strategy; these books are the ones which challenged my exising mental models of the world the most"
 ---
 
 *A reader lives a thousand lives before he dies . . . The man who never reads lives only one.” — George R.R. Martin*
@@ -152,4 +152,4 @@ The book is brilliantly written clearly displaying Peterson’s dexterity of tho
 
 Read if you’re seeking to broaden your perspective on what it means to lead a purposeful life.
 
-*Originally published by [Ross Sheil](http://rossysheil.com/) on [Medium](https://medium.com/rossysheil/.*
+*Originally published by [Ross Sheil](http://rossysheil.com/) on [Medium](https://medium.com/rossysheil/).*

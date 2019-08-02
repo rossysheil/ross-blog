@@ -10,7 +10,7 @@ tags:
   - "Monotype"
   - "History of typography"
   - "Helvetica"
-description: "A founder and operator guide to scaling tech companies courtey of Andy Grove."
+description: "A founder and operator guide to scaling tech companies courtey of Andy Grove. Andy Grove's management philosophy is a long-time favorite of Silicon Valley founders. During my time managing teams at Twitter this management framework was launched in the company by Dick Costolo as part of Twitter's people management and operations philosophy."
 ---
 
 *An exploration of Andy Grove’s management style for leader’s old & new…this is the first of non-fiction books I will read & write about every 2 weeks, all thoughts are my own…*

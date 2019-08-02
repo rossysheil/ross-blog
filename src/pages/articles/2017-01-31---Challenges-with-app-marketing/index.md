@@ -7,7 +7,7 @@ path: "/posts/challenges-with-app-marketing/"
 category: "Mobile Apps"
 tags:
   - "Marketing"
-description: "App marketing has distribution and scaling challenges as a system"
+description: "App marketing has distribution and scaling challenges as a system. There are a tonne of supply constraints and demand scarcity economics which will impact the ability for newcomers to launch and distribute mobile applications. This is an except from a talk I gave at PGC Connects analysing the forces at play and potential routes to circumvent these."
 ---
 *A perspective on the market forces creating a competitive app economy & what this means for app marketing in 2017…*
 
@@ -168,4 +168,4 @@ In summary app marketing is in a state of flux — as smartphone adoption begins
 * AI will open-up innovation in creative assets & programmatic video across a fragmented marketplace.
 
 
-*Originally published by [Ross Sheil](http://rossysheil.com/) on [Medium](https://medium.com/rossysheil/.*
+*Originally published by [Ross Sheil](http://rossysheil.com/) on [Medium](https://medium.com/rossysheil/).*
