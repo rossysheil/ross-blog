@@ -8,7 +8,7 @@ category: "Leadership"
 tags:
   - "Management"
   - "Leadership"
-description: "In any organisation you will encounter many different types of performers. There will always be a mix of A+, B and C type people. Something I've been preoccupied by is how to maintain originality in organisations. I believe this is made possible through malleable top-performers and organisational planning and foresight on how to nurture 'Originals' in cutlures should be a focus for every leader."
+description: "In any organisation you will encounter many different types of performers. There will always be a mix of A+, B and C type people. Something I've been preoccupied by is how to maintain originality in organisations. I believe this is made possible through malleable top-performers and organisational planning and foresight on how to nurture 'Originals' in cultures should be a focus for every leader."
 ---
 *The following is an exploration of Adam Grant’s ‘Originals’ and the key takeaways for building organisational creativity as a business leader.*
 
