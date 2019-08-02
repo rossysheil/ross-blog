@@ -11,7 +11,14 @@ description: "App marketing has distribution and scaling challenges as a system"
 ---
 *A perspective on the market forces creating a competitive app economy & what this means for app marketing in 2017…*
 
-On January 15th I delivered a keynote at #PGCLondon - Europe’s largest mobile gaming conference, you can find the slides from that presentation and my view below. Distilling my thoughts together for the conference I reflected on the state of mobile marketing in the app economy and market forces shaping marketers approach to app marketing in an age of limited supply, increased competitive forces and continued movement of power to the consumer.
+On January 15th I delivered a keynote at #PGCLondon - Europe’s largest mobile gaming conference, you can find the slides from that presentation and my view below. 
+
+<figure class="float-left" style="width: 200px">
+    <img src="./title-slide.jpg" alt="My talk at PG Connects">
+    <figcaption>My Talk at PG Connects</figcaption>
+</figure> 
+
+Distilling my thoughts together for the conference I reflected on the state of mobile marketing in the app economy and market forces shaping marketers approach to app marketing in an age of limited supply, increased competitive forces and continued movement of power to the consumer.
 
 * Forces driving the app economy
 * What are the forces impacting app marketing ?
@@ -22,7 +29,14 @@ On January 15th I delivered a keynote at #PGCLondon - Europe’s largest mobile 
 
 #Mobile time cannibalizing other media time
 
-A trend driven by consumers in recent years is cannibalisation of total time spent at the benefit of mobile but at the cost of other mediums. Mobile media time experienced almost triple digit growth in the last 3 years cannibalizing other media categories. Time spent with digital now represents 2/3 media minutes and in 2016 digital spend for the first time exceeded TV ad spend driven by the influx of ad dollars to mobile as other mediums were squeezed out by advertisers. As consumer’s shift their time to a multi-screen mobile environment their attention span has also changed, opening their smartphone 85 times a day and with an attention span lesser than that of a gold-fish! The consumption vessel is meeting the same pace of change and in the next 3 years alone 75% of mobile data traffic will be video-first.
+A trend driven by consumers in recent years is cannibalisation of total time spent at the benefit of mobile but at the cost of other mediums. Mobile media time experienced almost triple digit growth in the last 3 years cannibalizing other media categories. 
+
+<figure class="float-left" style="width: 200px">
+    <img src="./mobile-time.jpg" alt="High Growth Hanbook">
+    <figcaption>Art of War</figcaption>
+</figure> 
+
+Time spent with digital now represents 2/3 media minutes and in 2016 digital spend for the first time exceeded TV ad spend driven by the influx of ad dollars to mobile as other mediums were squeezed out by advertisers. As consumer’s shift their time to a multi-screen mobile environment their attention span has also changed, opening their smartphone 85 times a day and with an attention span lesser than that of a gold-fish! The consumption vessel is meeting the same pace of change and in the next 3 years alone 75% of mobile data traffic will be video-first.
 
 Marketers can now think of video & mobile as being synonymous with one another but it’s this convergence of time spent and evolution in consumption that creates an expectation of in-the-now ‘mobile moments’ which consumers expect to resonate via sight, sound, motion & of course in a mobile environment — Twitter, Snapchat, Facebook, Tencent have captured this consumer trend strongly with proprietary video formats and stickers, lenses, filters & emojis but it has inadvertently heralded a shift in user time spent towards video-based apps & environments away from other categories.
 
@@ -31,7 +45,17 @@ Mobile’s cannibalization of other mediums has begun to look inwards at the med
 ##Is growth in app usage slowing down ?
 User consumption trends inform product development and it’s undeniable that product stickiness is now seen amongst apps that ship product with a video-first mindset — mobile gaming apps are beginning to exhibit this trend more and more with Playrix, Plarium, King et al incorporating rich video assets into their games to satisfy consumer need for video consumption.
 
+<figure class="float-left" style="width: 200px">
+    <img src="./user-behavior.jpg" alt="User Behavior">
+    <figcaption>User behavior is evolving</figcaption>
+</figure> 
+
 In a recent analysis from Flurry with a total sample size of 1 Billion apps across 2 billion devices exploring session & time spent data there was one clear category winner fully built on video communication and consumption ; messaging & social. Most significantly messaging & social were eating other app categories to the point where there was a strong case for cannibalization particularly in personalisation apps & gaming apps where the biggest deficit appeared, gaming was -15% for its consecutive year on user sessions and -4% on total time spent in the category.
+
+<figure class="float-left" style="width: 200px">
+    <img src="./time-spent.jpg" alt="Time spent on apps">
+    <figcaption>Time spent on apps</figcaption>
+</figure> 
 
 A decrease in time spent is not necessarily a causal metric for revenue decrease and gaming revenue was positive YoY for both Google Play & the App Store representing majority of IAP revenue with unexpected contributions from Niantic & Nintendo respectively — more and more category growth is dependent on blockbuster titles being released each year. On the whole user behaviour is booming in the app economy, total time spent in apps increased by over 150 billion hours year over year in 2016 — there is a key trend for marketers to embrace in both product development and marketing, video-first environments are dominating user & time-spent metrics.
 
@@ -41,6 +65,11 @@ It is never helpful to look at media as purely a commodity, commodity-based medi
 ##When demand meets supply ?
 We have reached a tipping point in ad-tech where in the absence of a full-funnel marketing strategy buyers create churn & haemorrhage users rapidly. This is endemic in a landscape where there is limited focus on automation SDK’s to engage users post-install, the data below sets the scene for the macro & unit-economics of app marketing through to 2018.
 
+<figure class="float-left" style="width: 200px">
+    <img src="./tipping-point.jpg" alt="Tipping point">
+    <figcaption>The mobile tipping point</figcaption>
+</figure> 
+
 The core issue is that the rate of mobile ad spend growth is exceeding the rate of smartphone adoption and taking a channel agnostic view the supply has a clear ceiling. Smartphone adoption grew at 3% YoY in 2016, the multiple of ad-spend to users in 2017 is 42X and 2.5X is the multiple at which the rate of mobile ad spend exceeds user growth in 2016 pro rata. This simply means that the mobile ad spend per user is increasing at an unsustainable rate which exceeds the supply available for app marketers focused on ROI.
 
 This is compounded by the movement of brand dollars to mobile and the growth of ad-tech in recent years. There are over 1k vendor choices across social, mobile, search & programmatic, more DSPs buying on ad exchanges than ever before and touching the same users than ever before.
@@ -49,6 +78,8 @@ The demand landscape is also being squeezed where Google & Facebook have created
 ##Is total unique audience a fallacy ?
 The majority of app marketers can work with up to 10 different channels or many more at the top of the pyramid, this begs the question of whether app marketers are reaching a unique audience across their app marketing efforts and the extent to which lack of platform parity on mobile app attribution is painting an in-correct story of ROI.
 
+![unique-audience.jpg](./unique-audience.jpg)
+
 Looking at attribution models in app marketing — first click, last click, assisted installs & view-thru there are general principles which apply but various platforms, ad networks, DSP’s can present attributed data to app marketers in different ways where user-colouring or paid activity taking credit for organics occurs very easily and is a real problem in a hyper competitive demand market. This is even more acute looking deeper on a category-level, across social, programmatic, video network, ad network level where in 2017 app marketers will begin to dial-back channel diversification to focus more on category diversification across the vital few where they are reaching unique users regularly.
 
 The duopoly is indicative of scale only, there are smaller premium networks with strong ROAS which contribute heavily to user monetisation. In these scenarios where total unique audience is not present it is important marketers are content with attribution and arrive at partial attribution credit provided LTV or ROAS is evident. In this hyper competitive market the age of the mature marketing organisation buying only on unit economics focused on the vital few partners will become typical behaviour.
@@ -56,8 +87,9 @@ The duopoly is indicative of scale only, there are smaller premium networks with
 Ultimately the scene is set for limited inventory in mobile, ad platforms inclusive of Facebook & Google’s duopoly will be under buyer-pressure to increase the efficacy of their prediction models & algorithms with goal of maximising total audience, impression value and the rate at which those impressions convert — with increased & irrelevant impression exposure dilution of total unique audience and ad spend effectiveness is likely to occur at platform-level.
 
 ##App Store Discovery
-App store discovery for android & iOS can be challenging, with any ranked ecosystem like music charts or box office charts it is typically a winner takes all economy but an open field in terms of access to building the next killer app.
-There are over 4M apps total in both stores, 4k released daily, only 5 apps used daily, it’s a real challenge to break through a crowded marketplace.
+App store discovery for android & iOS can be challenging, with any ranked ecosystem like music charts or box office charts it is typically a winner takes all economy but an open field in terms of access to building the next killer app. There are over 4M apps total in both stores, 4k released daily, only 5 apps used daily, it’s a real challenge to break through a crowded marketplace.
+
+![gaming-apps-mature.jpg](./gaming-apps-mature.jpg)
 
 In the games business there is more complexity where gaming apps are maturing more quickly and exceeding their shelf life earlier — a game typically reaches 90% of its addressable install market in 90 days vs 180 days 3 years ago, the window for monetisation success is closing rapidly.
 
@@ -69,6 +101,8 @@ In 2016 app store country trends were disrupted for the first time with China su
 
 ##Growth in monetisation will come from emerging app economies
 For most games marketers striking that balance between developed app economies and emerging app economies will be key in finding success — the next wave of meaningful growth in form-factor for games marketers will come from SEA, BRIC & APAC with a gradual decrease in smartphone adoption and total install volume in USA and EMEA who are close to peak form factor.
+
+![balance-economies.jpg](./balance-economies.jpg)
 
 Most important is the monetisation curve of emerging markets, you can see above the monetisation curve of developed app economies as form factor improved, downloads will lay the ground work for delayed monetisation in emerging app economies as form factor improves particularly in SEA & BRIC territories. The above of course has ramifications for how app marketers are approaching their growth strategies for 2017, below I have outlined some of the emerging trends from 2016 which are expected to be widely adopted in 2017.
 

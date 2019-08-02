@@ -19,12 +19,14 @@ Reading more was part of my goals for 2018 and I’ve averaged 1.3 books per mon
 I’ve outlined below the top 10 books that have influenced how I think about the world in 2018.
 
 ##Number 1 - High Growth Handbook by Elad Gil
-The High Growth Handbook by Elad Gil functions as a founder/operator bible to scaling challenges experienced during rapid company growth. The book incorporates all of the operator experience built up by Elad working with companies like Airbnb, Twitter, Google, Instacart, Coinbase, and Square. The topics covered in this book range from the role of CEO, board management, hiring and firing, IPO’s, M&A and product management.
+The High Growth Handbook by Elad Gil functions as a founder/operator bible to scaling challenges experienced during rapid company growth. The book incorporates all of the operator experience built up by Elad working with companies like Airbnb, Twitter, Google, Instacart, Coinbase, and Square.
 
-<figure class="float-left" style="width: 300px">
+<figure class="float-left" style="width: 200px">
     <img src="./hgh-book.jpg" alt="High Growth Hanbook">
     <figcaption>High Growth Handbook</figcaption>
 </figure> 
+
+ The topics covered in this book range from the role of CEO, board management, hiring and firing, IPO’s, M&A and product management.
 
 My favourite chapters feature Marc Andressen on scaling (pay special attention to his view of moats & drawbridges), Reid Hoffman on board management and Naval Ravikant on late stage funding with many more operators, founders and VC’s featured throughout.
 Read if you’re looking for a scaling playbook, this is it
@@ -32,8 +34,8 @@ Read if you’re looking for a scaling playbook, this is it
 ##Number 2 - Blitzscaling by Reid Hoffman
 Blitscaling is all about the set of best practices and methodologies created from day zero and embedded in companies that operate at hyper scale. The book focuses on the various stages of growth companies must graduate through as they go from product idea — product market fit — channel market fit — scale & beyond but more particularly how operating cadence, executional muscle and internal mindset must evolve in order to be successful.
 
-<figure class="float-right" style="width: 300px">
-    <img src="./blitzscaling.jpg" alt="High Growth Hanbook">
+<figure class="float-right" style="width: 200px">
+    <img src="./blitzscaling-book.jpg" alt="High Growth Hanbook">
     <figcaption>Blitzscaling</figcaption>
 </figure> 
 
@@ -43,12 +45,14 @@ Read if you’re looking for a set of techniques for aggressively and sustainabl
 
 ##Number 3 - The Art of War by Sun Tzu
 
-This book had been on my list for a long time and finally got around to reading it following a recommendation from a guest on my podcast Michelle Kennedy founder of Peanut app. The Art of War was written 2500 years ago by Chinese military general & philosopher Sun Tzu and is as relevant today for competitive business strategy as it was upon it’s creation for war.
+This book had been on my list for a long time and finally got around to reading it following a recommendation from a guest on my podcast Michelle Kennedy founder of Peanut app. 
 
-<figure class="float-left" style="width: 300px">
-    <img src="./art-of-war.jpg" alt="High Growth Hanbook">
+<figure class="float-left" style="width: 200px">
+    <img src="./art-of-war.jpg" alt="Art of War">
     <figcaption>Art of War</figcaption>
 </figure> 
+
+The Art of War was written 2500 years ago by Chinese military general & philosopher Sun Tzu and is as relevant today for competitive business strategy as it was upon it’s creation for war.
 
 The book is broken down into 13 chapters that address everything from strategy formulation & execution to competitive analysis and scenario planning. A chapter on strategy formulation is amongst my favourites ‘let your plans be dark and impenetrable as night, and when you move, fall like a thunderbolt.”
 
@@ -60,7 +64,7 @@ Read if you’re looking for time tested advice for how to strategise and create
 
 Fun fact — I’m slightly obsessed by the routines of highly effective people so was super interested to read Tim Ferris new book on the habits & rituals of the most effective people across many different industries beyond traditional tech. This book was a really useful refresher and acknowledgement of the importance of effective routines addressing everything from eliminating decision fatigue, meditative practices, work-life balance, goal-setting, decision making and priorities.
 
-<figure class="float-left" style="width: 300px">
+<figure class="float-right" style="width: 200px">
     <img src="./tribe-of-mentors.jpg" alt="Tribe of Mentors">
     <figcaption>Tribe of Mentors</figcaption>
 </figure> 
@@ -73,8 +77,8 @@ Read if you’re looking for inspiration for building effective routines in your
 
 It’s highly likely in everyday life to encounter people with anecdotal & qualitative views of the world. Sometimes these views are not grounded in fact but merely their own experience of the world making it no less relevant or valuable but not representative of the majority.
 
-<figure class="float-left" style="width: 300px">
-    <img src="./factfullness.jpg" alt="Factfullness">
+<figure class="float-left" style="width: 200px">
+    <img src="./factfullness-book.jpg" alt="Factfullness">
     <figcaption>Factfullness</figcaption>
 </figure> 
 
@@ -91,8 +95,8 @@ This book comes from a similar school of thought to Factfulness in that it’s c
 * Optimising for long-term economic growth vs short-term gratification
 * Respecting human rights and following general principles
 
-<figure class="float-left" style="width: 300px">
-    <img src="./stubborn-book.jpg" alt="Stubborn">
+<figure class="float-right" style="width: 200px">
+    <img src="./stubborn-book.jpg" alt="Stubborn Attachments">
     <figcaption>Stubborn Attachments</figcaption>
 </figure> 
 
@@ -102,7 +106,7 @@ Read if you’re looking for an inclusive, non-political and progressive view on
 
 For anybody that dreams of one day starting their own venture or startup this book is for you. The memoir tells the story of Phil Knights journey to building a $80B company and all of the obstacles he encountered along the way. Knight started his company selling Japanese shoes out of his car at the age of 24 following a backpacking tour around the world making $8k in sales in his first year.
 
-<figure class="float-left" style="width: 300px">
+<figure class="float-left" style="width: 200px">
     <img src="./shoedog-book.jpg" alt="Shoe Dog Book">
     <figcaption>Shoe Dog</figcaption>
 </figure> 
@@ -114,7 +118,7 @@ Read if you’re looking for a gritty story of the sacrifices required to build 
 ##Number 8 - Idea Factory by Jon Gertner
 Bell Labs was the innovation wing of AT&T producing some of the world’s most advanced technologies between 1920 and 1980 such as the transistor and the laser. As compared to any other lab Bell Labs had the strongest frequency and quality of output from a product and innovation point of view.
 
-<figure class="float-left" style="width: 300px">
+<figure class="float-right" style="width: 200px">
     <img src="./idea-factory.jpg" alt="The Idea Factory">
     <figcaption>Idea Factory</figcaption>
 </figure> 
@@ -126,7 +130,7 @@ Read if you’re seeking to understand industrialisation of your product design 
 
 Sometimes Silicon Valley can get a bad rap on founder hype and this is a story which proves out the propensity for SV to drink it’s own kool-aid. Bad Blood tells the tale of Elizabeth Holmes deception in building $9B company Theranos exposed by investigative journalist John Carreyrou.
 
-<figure class="float-left" style="width: 300px">
+<figure class="float-left" style="width: 200px">
     <img src="./hgh-book.jpg" alt="Bad Blood">
     <figcaption>Bad Blood</figcaption>
 </figure> 
@@ -139,7 +143,7 @@ Read if you’re looking for a shock and awe story of how one founder faked succ
 
 Given Peterson’s rise in the media throughout 2018 I curiously caught his show at the Apollo in London earlier this year. I would encourage you to take with a pinch of salt the majority of what is portrayed in political media about Peterson; his views are liberal, centrist & progressive grounded in academic literature and appeal to a very diverse group of people as evidenced by the success of the book and diversity at the venue.
 
-<figure class="float-left" style="width: 300px">
+<figure class="float-right" style="width: 200px">
     <img src="./jordan-book.jpg" alt="12 Rules for Life">
     <figcaption>12 Rules for Life</figcaption>
 </figure> 
